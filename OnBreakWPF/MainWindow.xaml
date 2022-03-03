@@ -1,0 +1,365 @@
+﻿<Controls:MetroWindow x:Class="OnBreakWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:OnBreakWPF"
+        mc:Ignorable="d"
+         
+                     BorderThickness="0" 
+                      GlowBrush="Black"
+                      
+                      
+        Title="OnBreak - Eventos Empresariales" Height="603.4" Width="1316.532" TitleCharacterCasing="Normal" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Loaded="RespaldoAutomatico">
+    <Grid Margin="0,0,0.4,-0.4" Background="{DynamicResource Grid}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+
+        <!--MENU-->
+        <!--LISTA DE CLIENTES-->
+
+
+
+
+
+
+        <!--MENU-->
+        <Grid x:Name="GridMenu" HorizontalAlignment="Left" Height="521" VerticalAlignment="Top" Width="209" Background="{DynamicResource Grid}">
+            <!--MENU-->
+            <!--MENU-->
+            <Controls:Tile x:Name="btnAdmClientes" Margin="0,0,2,406" Width="Auto" Title="Administración de clientes"  Height="Auto" BorderBrush="{DynamicResource Bordes Botones}" Click="BtnAdmClientes_Click" Background="{DynamicResource Tiles}" Foreground="White">
+
+                <Image Source="Imagenes/AdministracionClientes.png" Height="80" Width="80"/>
+            </Controls:Tile>
+
+
+            <Controls:Tile x:Name="btnListadoCli" Margin="0,245,2,144" Width="Auto" Height="Auto" Title="Listado de clientes" Click="BtnListadoCli_Click" Background="{DynamicResource Tiles}" BorderBrush="#FF000000" Foreground="White" >
+
+                <Image Source="Imagenes/ListadoClientes.png" Width="80" Height="80"/>
+            </Controls:Tile>
+            <Controls:Tile x:Name="TL_ListaContratos" Margin="0,377,2,10" Width="Auto" Height="Auto" Title="Listado de contratos" Click="TL_ListaCon_Click" Background="{DynamicResource Tiles}" BorderBrush="{DynamicResource Bordes Botones}" Foreground="White">
+
+                <Image Source="Imagenes/ListadoContratos.png" Height="109" Width="80" Stretch="Fill"/>
+            </Controls:Tile>
+            <Controls:Tile x:Name="btnAdmContratos" Margin="0,115,0,276" Width="207" Title="Administración de contratos" Height="Auto" Click="BtnAdmContratos_Click" HorizontalAlignment="Left" Background="{DynamicResource Tiles}" BorderBrush="{DynamicResource Bordes Botones}" Foreground="White">
+
+                <Image Source="Imagenes/Contratos.png" Height="80" Width="80" Stretch="Fill"/>
+            </Controls:Tile>
+            <!--MENU-->
+        </Grid>
+
+
+        <!--CLIENTES-->
+        <Grid x:Name="GridAdmCli" HorizontalAlignment="Left" Height="574" Margin="209,0,-44.2,0" VerticalAlignment="Top" Width="964" Background="{DynamicResource Grid}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="215*"/>
+            </Grid.ColumnDefinitions>
+            <!--CLIENTES-->
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="txtRutCliente" MaxLength="10" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="34" Margin="131,155,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174" FontSize="16" Controls:TextBoxHelper.Watermark="Ingrese Rut" PreviewTextInput="OnlyNumbersRut" Grid.Column="1" KeyDown="txtRutCliente_KeyDown" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}" Foreground="{DynamicResource Letras}" CaretBrush="{DynamicResource Grid}"/>
+            <Label Content="Rut:" HorizontalAlignment="Left" Margin="85,155,0,0" VerticalAlignment="Top" Width="46" FontSize="16" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <TextBox x:Name="txtNombreCliente" Controls:TextBoxHelper.Watermark="Ingrese Nombre" HorizontalAlignment="Left" Height="34" Margin="131,200,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174" FontSize="16" Grid.Column="1" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}" Foreground="{DynamicResource Letras}"/>
+            <TextBox x:Name="txtEmailCli" HorizontalAlignment="Left" Height="34" Margin="131,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174" Foreground="{DynamicResource Letras}" FontSize="16" Controls:TextBoxHelper.Watermark="Ingrese Email" Grid.Column="1" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}"/>
+            <Label Content="Nombre:" HorizontalAlignment="Left" Margin="56,202,0,0" VerticalAlignment="Top" Width="75" FontSize="16" Height="34" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <Label Content="Email:" HorizontalAlignment="Left" Margin="74,250,0,0" VerticalAlignment="Top" Width="52" FontSize="16" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <TextBox x:Name="txtDireccionCli" HorizontalAlignment="Left" Height="34" Margin="131,296,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174" Foreground="{DynamicResource Letras}" FontSize="16" Controls:TextBoxHelper.Watermark="Ingrese Direccion" Grid.Column="1" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}"/>
+            <Label Content="Dirección:" HorizontalAlignment="Left" Margin="42,296,0,0" VerticalAlignment="Top" Width="81" FontSize="16" Height="34" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <Label Content="Razón social:" HorizontalAlignment="Left" Margin="410,156,0,0" VerticalAlignment="Top" Width="104" FontSize="16" Height="33" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <Label Content="Telefono:" HorizontalAlignment="Left" Margin="439,203,0,0" VerticalAlignment="Top" Width="75" FontSize="16" Height="34" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <Label Content="Tipo de empresa:" HorizontalAlignment="Left" Margin="379,250,0,0" VerticalAlignment="Top" Width="140" FontSize="16" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <Label Content="Actividad empresa:" HorizontalAlignment="Left" Margin="368,298,0,0" VerticalAlignment="Top" Width="146" FontSize="16" Height="34" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <TextBox x:Name="txtRazonSocialCli" HorizontalAlignment="Left" Height="34" Margin="514,156,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174" Foreground="{DynamicResource Letras}" FontSize="16" Controls:TextBoxHelper.Watermark="Ingrese Razon Social" Grid.Column="1" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}"/>
+            <TextBox x:Name="txtTelefonoCli" HorizontalAlignment="Left" Height="34" Margin="514,203,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174" Foreground="{DynamicResource Letras}" FontSize="16" Controls:TextBoxHelper.Watermark="Ingrese Telefono" Grid.Column="1" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}"/>
+            <ComboBox x:Name="cboTipoEmpresaCli" HorizontalAlignment="Left" Margin="514,250,0,290.4" Width="174" Controls:TextBoxHelper.Watermark="Seleccione" FontSize="16" Grid.Column="1" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}" Foreground="{DynamicResource Letras}"/>
+            <ComboBox x:Name="cboActividadEmpCli" HorizontalAlignment="Left" Margin="514,298,0,0" VerticalAlignment="Top" Width="174" Height="34" Controls:TextBoxHelper.Watermark="Seleccione" FontSize="16"  Grid.Column="1" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}" Foreground="{DynamicResource Letras}"/>
+            <Button x:Name="BT_BuscarCli" Style="{DynamicResource MahApps.Metro.Styles.MetroCircleButtonStyle}" HorizontalAlignment="Left" Margin="310,152,0,0" VerticalAlignment="Top" Width="35" Height="35" Background="{DynamicResource lupas}" ToolTip="Buscar cliente por rut" Click="BtnBuscarCliente_Click" Grid.Column="1">
+                <Image HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="35" Stretch="Fill" Source="Imagenes/Buscar Usuario.png"/>
+            </Button>
+
+            <!--Botones CRUD-->
+            <Button x:Name="BT_AgregarCli" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="42,378,0,0" VerticalAlignment="Top" Width="136" Height="40" Click="BT_AgregarCli_Click" Grid.Column="1" ToolTip="Agregar un nuevo cliente" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}">
+                <Image Height="30" Width="126" Stretch="Fill" Source="botones/AgregarCliente.png"/>
+            </Button>
+            <Button Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="550,378,0,0" VerticalAlignment="Top" Width="136" Height="40" Grid.Column="1" ToolTip="Buscar y cargar cliente en la lista" Click="Button_Click_2" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}">
+                <Image Height="30" Width="110" Stretch="Fill" Source="botones/Data-Import.png"/>
+            </Button>
+            <Button x:Name="BT_EliminarCli" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="211,378,0,0" VerticalAlignment="Top" Width="136" Height="40" Click="BT_EliminarCli_Click" Grid.Column="1" ToolTip="Eliminar cliente" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}">
+                <Image Height="30" Width="126" Stretch="Fill" Source="botones/EliminarCliente.png"/>
+            </Button>
+            <Button x:Name="BT_ActualizarCli" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="383,378,0,0" VerticalAlignment="Top" Width="136" Height="40" Click="BT_ActualizarCli_Click" Grid.Column="1" ToolTip="Actualizar datos del cliente" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}">
+                <Image Height="30" Width="126" Stretch="Fill" Source="botones/ActualizarCliente.png"/>
+            </Button>
+            <Image x:Name="LogoContraste" HorizontalAlignment="Left" Height="110" Margin="734.8,0,0,0" VerticalAlignment="Top" Width="110" Source="Imagenes/logoContraste.png" Stretch="Fill" Grid.Column="1"/>
+            <Label Content="Administración de clientes" HorizontalAlignment="Left" Margin="148,23,0,0" VerticalAlignment="Top" Height="64" Width="465" FontSize="36" Grid.Column="1" Foreground="{DynamicResource Letras}"/>
+            <Image x:Name="LogoNormal" HorizontalAlignment="Left" Height="110" Margin="734.6,0,0,0" VerticalAlignment="Top" Width="110" Source="Imagenes/logo_transparent_background.png" Stretch="Fill" Grid.Column="1"/>
+
+
+
+            <!--Botones CRUD-->
+
+            <!--CLIENTES-->
+        </Grid>
+        <Grid x:Name="GridInicio" HorizontalAlignment="Left" Height="574" Margin="208,0,-81.2,0" VerticalAlignment="Top" Width="1002" Background="{DynamicResource Grid}" d:IsHidden="True">
+            <Label Content="Bienvenido a OnBreak" HorizontalAlignment="Left" Margin="170,10,0,0" VerticalAlignment="Top" Width="505" Height="59" FontFamily="Tahoma" FontSize="48" Foreground="{DynamicResource Letras}"/>
+            <Image HorizontalAlignment="Left" Height="692" Margin="-37,90,-32,-261" VerticalAlignment="Top" Width="950" Source="Imagenes/logo_transparent_background.png" Stretch="Fill" Opacity="0.15" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-0.229"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+        </Grid>
+
+
+
+        <!--LISTA DE CLIENTES-->
+        <Grid x:Name="GridAdmContratos" HorizontalAlignment="Left" Height="574" Margin="208,0,0,0" VerticalAlignment="Top" Width="1102" Background="{DynamicResource Grid}" d:IsHidden="True">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <!--ADM CONTRATOS-->
+            <Rectangle Fill="{DynamicResource Rectangulos}" HorizontalAlignment="Left" Height="197" Margin="428,299,0,0" Stroke="{DynamicResource Letras}" VerticalAlignment="Top" Width="435"/>
+
+
+
+            <!--ADM CONTRATOS-->
+            <Rectangle Fill="{DynamicResource Rectangulos}" HorizontalAlignment="Left" Height="216" Margin="23,305,0,0" Stroke="{DynamicResource Letras}" VerticalAlignment="Top" Width="373"/>
+
+
+
+            <!--ADM CONTRATOS-->
+            <Label x:Name="LB_RutCon" Content="Rut:" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" FontSize="16" Width="39" Foreground="{DynamicResource Letras}"/>
+            <Label x:Name="LB_TipoEvento" Content="Tipo de evento:" HorizontalAlignment="Left" Margin="433,77,0,0" VerticalAlignment="Top" FontSize="16" Width="122" Foreground="{DynamicResource Letras}"/>
+            <Label x:Name="LB_ModalidadServicio" Content="Modalidad servicio:" HorizontalAlignment="Left" Margin="423,128,0,0" VerticalAlignment="Top" FontSize="16" Width="148" Foreground="{DynamicResource Letras}"/>
+            <Label Content="Inicio evento:" HorizontalAlignment="Left" Margin="11,122,0,0" VerticalAlignment="Top" FontSize="16" Width="106" Foreground="{DynamicResource Letras}"/>
+            <Label Content="Termino evento:" HorizontalAlignment="Left" Margin="11,170,0,0" VerticalAlignment="Top" FontSize="16" Width="127" Foreground="{DynamicResource Letras}"/>
+            <ComboBox x:Name="cboTipoEvento" HorizontalAlignment="Left" Margin="575,76,0,465.4" Width="166" SelectionChanged="CB_TipoEvento_SelectionChanged" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+            <ComboBox x:Name="cboModalidadServicio" HorizontalAlignment="Left" Margin="576,128,0,414.4" Width="165" LostFocus="CB_ModalidadServicio_LostFocus" SelectionChanged="CB_ModalidadServicio_SelectionChanged" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+            <Label x:Name="LB_Asistentes" HorizontalAlignment="Left" Margin="337,213,0,0" VerticalAlignment="Top" FontSize="16" Width="127"/>
+            <Label x:Name="LB_PersonalAdicional" Content="Personal Adicional:" HorizontalAlignment="Left" Margin="428,224,0,0" VerticalAlignment="Top" FontSize="16" Width="143" RenderTransformOrigin="2.26,-0.952" Foreground="{DynamicResource Letras}"/>
+            <TextBox x:Name="txtPersonalAdicional" HorizontalAlignment="Left" Height="31" Margin="574,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" TextChanged="TB_PersonalAdicional_TextChanged" LostFocus="TB_PersonalAdicional_LostFocus" PreviewTextInput="OnlyNumbers" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+            <Label Content="Observaciones:" HorizontalAlignment="Left" Margin="11,216,0,0" VerticalAlignment="Top" FontSize="16" Width="123" RenderTransformOrigin="0.52,0.325" Foreground="{DynamicResource Letras}"/>
+            <TextBox x:Name="txtObservaciones" HorizontalAlignment="Left" Height="75" Margin="134,213,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+
+            <!--GRID DE INFORMACION-->
+            <TextBox x:Name="txtNumAsistentes" HorizontalAlignment="Left" Height="31" Margin="574,173,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" TextChanged="TB_NumAsistentes_TextChanged" LostFocus="TB_NumAsistentes_LostFocus" PreviewTextInput="OnlyNumbers" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+            <TextBox x:Name="txtRutCon" MaxLength="10" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="31" Margin="134,79,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" FontSize="16" TextChanged="TB_RutCon_TextChanged" PreviewTextInput="OnlyNumbersRut" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+            <Image x:Name="LogoContraste2" HorizontalAlignment="Left" Height="110" Margin="933,2,0,0" VerticalAlignment="Top" Width="110" Source="Imagenes/logoContraste.png" Stretch="Fill"/>
+            <Label x:Name="LB_NumeroCon" Content="N° de Contrato:" HorizontalAlignment="Left" Margin="32,315,0,0" VerticalAlignment="Top" FontSize="16" Width="122" RenderTransformOrigin="0.59,2.065" Foreground="{DynamicResource Letras}"/>
+            <TextBox x:Name="txtNumContrato" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="30" Margin="175,317,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" FontSize="16" KeyDown="txtNumContrato_KeyDown" PreviewTextInput="OnlyNumbersNumCon" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}" BorderBrush="{DynamicResource Bordes}"/>
+            <Button x:Name="BT_BuscarNumeroCon" Style="{DynamicResource MahApps.Metro.Styles.MetroCircleButtonStyle}" Margin="346,317,715,0" VerticalAlignment="Top" Height="30" Background="{DynamicResource lupas}" ToolTip="Buscar contrato." Click="BT_BuscarNumeroCon_Click">
+                <Image x:Name="txtConsultarCon" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="28" Stretch="Fill" Source="Imagenes/Search.png"/>
+            </Button>
+            <Grid HorizontalAlignment="Left" Height="34" Margin="80,387,0,0" VerticalAlignment="Top" Width="261" Background="{DynamicResource Info1}">
+                <Label Content="Información de contrato" HorizontalAlignment="Left" Margin="10,0,-1,-8" VerticalAlignment="Top" Height="42" Width="252" FontWeight="Bold" FontSize="20" Foreground="{DynamicResource kha}"/>
+            </Grid>
+
+            <!--INFORMACION CONTRATO-->
+            <Grid HorizontalAlignment="Left" Height="92" Margin="80,421,0,0" VerticalAlignment="Top" Width="261" Background="{DynamicResource Info2}">
+                <!--INFORMACION CONTRATO-->
+
+                <Label Content="Creación:" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Height="30" Width="73" FontWeight="Bold" FontSize="14" Foreground="{DynamicResource kha}"/>
+                <Label Content="Termino:" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top" Height="30" Width="73" FontWeight="Bold" FontSize="14" Foreground="{DynamicResource kha}"/>
+                <TextBox HorizontalAlignment="Left" Height="27" Margin="434,429,-295,-378" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" Background="#00000000" BorderBrush="#00000000" CaretBrush="#00000000" Foreground="White" FontWeight="Bold" FontSize="16" SelectionBrush="#00000000"/>
+                <TextBox x:Name="txtTermino" HorizontalAlignment="Left" Height="27" Margin="88,33,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" Background="#00000000" BorderBrush="#00000000" CaretBrush="#00000000" Foreground="{DynamicResource kha}" FontWeight="Bold" FontSize="16" SelectionBrush="#00000000"/>
+                <TextBox x:Name="txtCreacion" HorizontalAlignment="Left" Height="27" Margin="88,3,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" Background="#00000000" BorderBrush="#00000000" CaretBrush="#00000000" Foreground="{DynamicResource kha}" FontWeight="Bold" FontSize="16" SelectionBrush="#00000000"/>
+                <TextBox x:Name="txtEstado" HorizontalAlignment="Left" Height="27" Margin="88,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" Background="#00000000" BorderBrush="#00000000" CaretBrush="#00000000" Foreground="{DynamicResource kha}" FontWeight="Bold" FontSize="16" SelectionBrush="#00000000"/>
+                <Label Content="Estado:" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Height="30" Width="73" FontWeight="Bold" FontSize="14" Foreground="{DynamicResource kha}" RenderTransformOrigin="0.523,0.88"/>
+                <Border BorderBrush="{DynamicResource Bordes Botones}" BorderThickness="1" HorizontalAlignment="Left" Height="92" VerticalAlignment="Top" Width="261"/>
+
+
+                <!--INFORMACION CONTRATO-->
+            </Grid>
+            <Button x:Name="BT_AgregarCon" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="892,317,0,0" VerticalAlignment="Top" Width="135" Height="40" Click="BT_AgregarCon_Click" FontSize="18" FontFamily="Segoe UI" FontWeight="Bold" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}" ToolTip="Agregar contrato">
+                <Image Height="20" Width="114" Stretch="Fill" Source="botones/AgregarContrato.png"/>
+            </Button>
+            <Button x:Name="BT_ActualizarCon" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="892,362,0,0" VerticalAlignment="Top" Width="135" Height="40" Click="BT_ActualizarCon_Click" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}" ToolTip="Actualizar contrato">
+                <Image Height="23" Width="113" Stretch="Fill" Source="botones/ActualizarContrato.png"/>
+            </Button>
+            <Controls:DateTimePicker x:Name="dpFechaInicio" HorizontalAlignment="Left" Margin="134,122,0,0" VerticalAlignment="Top" Width="166" Height="31" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}" />
+            <Controls:DateTimePicker x:Name="dpFechaTermino" HorizontalAlignment="Left" Margin="134,170,0,0" VerticalAlignment="Top" Width="166" Height="31" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}" />
+            <Label Content="Administración de contratos" HorizontalAlignment="Left" Margin="176,10,0,0" VerticalAlignment="Top" Height="64" Width="465" FontSize="36" Foreground="{DynamicResource Letras}"/>
+            <Label x:Name="LB_Asistentes1" Content="N° de asistentes:" HorizontalAlignment="Left" Margin="428,175,0,0" VerticalAlignment="Top" FontSize="16" Width="143" RenderTransformOrigin="2.26,-0.952" Foreground="{DynamicResource Letras}"/>
+            <Grid HorizontalAlignment="Left" Height="34" Margin="804,109,0,0" VerticalAlignment="Top" Width="207" Background="{DynamicResource Info1}">
+                <Label Content="Información" HorizontalAlignment="Left" Margin="40,0,0,-8" VerticalAlignment="Top" Height="42" Width="129" FontWeight="Bold" FontSize="20" Foreground="{DynamicResource kha}"/>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="133" Margin="804,143,0,0" VerticalAlignment="Top" Width="207" Background="{DynamicResource Info2}">
+
+
+                <!--INFORMACION CONTRATO-->
+                <!--INFORMACION CONTRATO-->
+
+                <Label Content="Valor base:" HorizontalAlignment="Left" Margin="10,29,0,0" VerticalAlignment="Top" Height="30" Width="84" FontWeight="Bold" FontSize="14" Foreground="{DynamicResource kha}"/>
+                <Label Content="Personal base:" HorizontalAlignment="Left" Margin="10,59,0,0" VerticalAlignment="Top" Height="30" Width="105" FontWeight="Bold" FontSize="14" Foreground="{DynamicResource kha}"/>
+                <TextBox x:Name="txtPersonalBase" HorizontalAlignment="Left" Height="27" Margin="115,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="82" Background="#00000000" BorderBrush="#00000000" CaretBrush="#00000000" Foreground="{DynamicResource kha}" FontWeight="Bold" FontSize="16" SelectionBrush="#00000000"/>
+                <TextBox x:Name="txtNombreEmpresa" HorizontalAlignment="Left" Height="27" Margin="52,2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Background="#00000000" BorderBrush="#00000000" CaretBrush="#00000000" Foreground="{DynamicResource kha}" FontWeight="Bold" FontSize="16" SelectionBrush="#00000000"/>
+                <TextBox x:Name="txtValorTotal" HorizontalAlignment="Left" Height="27" Margin="115,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="82" Background="#00000000" BorderBrush="#00000000" CaretBrush="#00000000" Foreground="{DynamicResource kha}" FontWeight="Bold" FontSize="16" SelectionBrush="#00000000"/>
+                <Label Content="Valor total:" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" Height="30" Width="84" FontWeight="Bold" FontSize="14" Foreground="{DynamicResource kha}" RenderTransformOrigin="0.523,0.88"/>
+                <TextBox x:Name="txtValorBase" HorizontalAlignment="Left" Height="27" Margin="115,27,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="82" Background="#00000000" BorderBrush="#00000000" CaretBrush="#00000000" Foreground="{DynamicResource kha}" FontWeight="Bold" FontSize="16" SelectionBrush="#00000000" RenderTransformOrigin="0.729,0.437"/>
+                <Image HorizontalAlignment="Left" Height="29" Margin="17,0,0,0" VerticalAlignment="Top" Width="44" Source="Imagenes/icons8-cliente-de-empresa-filled-50.png"/>
+
+
+            </Grid>
+            <Button x:Name="btoCancelar" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="285,352,0,0" VerticalAlignment="Top" Width="102" Height="31" Click="btoCancerlar_Click" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}" ToolTip="Cancelar contrato.">
+                <Image Height="21" Width="86" Source="botones/CancelarContrato.png" Stretch="Fill"/>
+            </Button>
+            <Button x:Name="btoTerminar" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="162,352,0,0" VerticalAlignment="Top" Width="100" Height="31" Click="btoTerminar_Click" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}" ToolTip="Terminar contrato.">
+                <Image Height="21" Width="94" Stretch="Fill" Source="botones/TerminarContrato.png"/>
+            </Button>
+            <Button x:Name="btnBuscar" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="41,352,0,0" VerticalAlignment="Top" Width="100" Height="31" Click="BtnBuscar_Click" ToolTip="Importar un contrato desde la lista" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}">
+                <Image Height="21" Width="90" Stretch="Fill" Source="botones/Data-Import.png"/>
+            </Button>
+            <Button Style="{StaticResource AccentedSquareButtonStyle}" x:Name="btnRespaldar" HorizontalAlignment="Left" Margin="891,407,0,0" VerticalAlignment="Top" Width="136" Click="BtnRespaldar_Click" ToolTip="Crear un respaldo del trabajo" Height="38" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}">
+                <Image HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="126" Source="Imagenes/respaldar.png" Stretch="Fill"/>
+            </Button>
+            <Grid x:Name="GridCenas" HorizontalAlignment="Left" Height="186" Margin="433,306,0,0" VerticalAlignment="Top" Width="424" Background="{DynamicResource Grid}" d:IsHidden="True">
+                <Label Content="Tipo de ambientación:" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top" Width="168" FontSize="16" Height="43" Foreground="{DynamicResource Letras}"/>
+                <Label Content="Música ambiental:" HorizontalAlignment="Left" Margin="6,64,0,0" VerticalAlignment="Top" Width="146" FontSize="16" Height="43" Foreground="{DynamicResource Letras}"/>
+                <RadioButton x:Name="rbBasicaCen" Content="Básica" HorizontalAlignment="Left" Margin="181,13,0,0" VerticalAlignment="Top" Height="43" FontSize="16" GroupName="AmbientaciónCenas" Width="83" IsChecked="True" Foreground="{DynamicResource Letras}"/>
+                <RadioButton x:Name="rbPerCen" Content="Personalizada." HorizontalAlignment="Left" Margin="278,13,0,0" VerticalAlignment="Top" Height="43" FontSize="16" GroupName="AmbientaciónCenas" Foreground="{DynamicResource Letras}"/>
+                <Label Content="Local:" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top" Width="70" FontSize="16" RenderTransformOrigin="0.62,0.3" Height="40" Foreground="{DynamicResource Letras}"/>
+                <RadioButton x:Name="rbLocalCen" Content="OnBreak" HorizontalAlignment="Left" Margin="181,104,0,0" VerticalAlignment="Top" FontSize="16" Height="40" Width="92" GroupName="LocalCenas" Checked="RbLocalCen_Checked" Foreground="{DynamicResource Letras}"/>
+                <RadioButton x:Name="rbOtroLocalCen" Content="Otro local." HorizontalAlignment="Left" Margin="278,104,0,0" VerticalAlignment="Top" FontSize="16" Width="112" Height="40" GroupName="LocalCenas" Checked="RbOtroLocalCen_Checked" Foreground="{DynamicResource Letras}"/>
+                <CheckBox x:Name="ckMusicaCen" Content="" HorizontalAlignment="Left" Margin="183,59,0,0" VerticalAlignment="Top" Height="40" Width="30"/>
+                <Label Content="Valor de arriendo:" HorizontalAlignment="Left" Margin="6,154,0,0" VerticalAlignment="Top" Width="146" FontSize="16" Foreground="{DynamicResource Letras}"/>
+                <TextBox x:Name="txtValorArriendo" HorizontalAlignment="Left" Height="31" Margin="181,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123"/>
+                <Label Content="Cenas" HorizontalAlignment="Left" Margin="370,82,0,0" VerticalAlignment="Top" Foreground="{DynamicResource Letras}"/>
+            </Grid>
+            <Grid x:Name="GridCoffeBreak" HorizontalAlignment="Left" Height="82" Margin="433,310,0,0" VerticalAlignment="Top" Width="405" Background="{DynamicResource Grid}" d:IsHidden="True">
+                <Label Content="CoffeBreak" HorizontalAlignment="Left" Margin="39,10,0,0" VerticalAlignment="Top" Height="27" Width="74" Foreground="{DynamicResource Letras}"/>
+                <Label Content="Vegetariana:" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="112" FontSize="16" Foreground="{DynamicResource Letras}"/>
+                <CheckBox x:Name="ckVegetariana" Content="" HorizontalAlignment="Left" Margin="108,43,0,0" VerticalAlignment="Top"/>
+            </Grid>
+            <Grid x:Name="GridCocktail" HorizontalAlignment="Left" Height="188" Margin="433,304,0,0" VerticalAlignment="Top" Width="424" Background="{DynamicResource Grid}">
+                <Label Content="Tipo ambientación:" HorizontalAlignment="Left" Margin="5,58,0,0" VerticalAlignment="Top" Width="148" FontSize="16" Foreground="{DynamicResource Letras}"/>
+                <Label Content="Música cliente:" HorizontalAlignment="Left" Margin="5,130,0,0" VerticalAlignment="Top" Width="134" FontSize="16" Foreground="{DynamicResource Letras}"/>
+                <CheckBox x:Name="ckAmbientacion" Content="" HorizontalAlignment="Left" Margin="118,17,0,0" VerticalAlignment="Top" FontSize="16" Height="47" Width="25" Checked="CkAmbientacion_Checked" Unchecked="CkAmbientacion_Unchecked"/>
+                <Label Content="Cocktail" HorizontalAlignment="Left" Margin="362,0,0,0" VerticalAlignment="Top" Foreground="{DynamicResource Letras}"/>
+                <Label Content="Ambientación:" HorizontalAlignment="Left" Margin="5,22,0,0" VerticalAlignment="Top" Width="118" FontSize="16" Foreground="{DynamicResource Letras}"/>
+                <Label Content="Música Ambiente:" HorizontalAlignment="Left" Margin="5,94,0,0" VerticalAlignment="Top" Width="138" FontSize="16" Foreground="{DynamicResource Letras}"/>
+                <CheckBox x:Name="ckMusicaAmb" Content="" HorizontalAlignment="Left" Margin="147,88,0,0" VerticalAlignment="Top" FontSize="16" Height="47" Width="25"/>
+                <CheckBox x:Name="ckMusicaCli" Content="" HorizontalAlignment="Left" Margin="128,125,0,0" VerticalAlignment="Top" FontSize="16" Height="47" Width="25"/>
+                <RadioButton x:Name="rbBasica" Content="Básica." HorizontalAlignment="Left" Margin="153,53,0,0" VerticalAlignment="Top" FontSize="16" Height="40" GroupName="AmbientacionCock" Foreground="{DynamicResource Letras}"/>
+                <RadioButton x:Name="rbPer" Content="Personalizada." HorizontalAlignment="Left" Margin="246,53,0,0" VerticalAlignment="Top" FontSize="16" Height="40" GroupName="AmbientacionCock" Foreground="{DynamicResource Letras}"/>
+            </Grid>
+            <Label Content="Datos adicionales:" HorizontalAlignment="Left" Margin="444,273,0,0" VerticalAlignment="Top" Width="111" Foreground="{DynamicResource Letras}"/>
+            <Button x:Name="btnCalcular" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="892,450,0,0" VerticalAlignment="Top" Width="135" Height="38" Click="BtnCalcular_Click" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}" ToolTip="Calcular total del contrato">
+                <Image HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="126" Source="Imagenes/Calcular.png" Stretch="Fill"/>
+            </Button>
+            <Border BorderBrush="{DynamicResource Bordes Botones}" BorderThickness="1" HorizontalAlignment="Left" Height="34" Margin="80,388,0,0" VerticalAlignment="Top" Width="261"/>
+            <Border BorderBrush="{DynamicResource Bordes Botones}" BorderThickness="1" HorizontalAlignment="Left" Height="34" Margin="804,109,0,0" VerticalAlignment="Top" Width="207"/>
+            <Border BorderBrush="{DynamicResource Bordes Botones}" BorderThickness="1" HorizontalAlignment="Left" Height="133" Margin="804,143,0,0" VerticalAlignment="Top" Width="207"/>
+            <Image x:Name="LogoNormal2" HorizontalAlignment="Left" Height="110" Margin="933,0,0,0" VerticalAlignment="Top" Width="110" Source="Imagenes/logo_transparent_background.png" Stretch="Fill"/>
+
+
+
+
+            <!--ADM CONTRATOS-->
+
+
+        </Grid>
+        <Controls:Flyout x:Name="FlyListadoClientes" Position="Bottom" CloseButtonVisibility="Hidden" Theme="Adapt" Height="526" Margin="209,-3,-1,0.6" TitleVisibility="Hidden" HorizontalAlignment="Left" Background="{DynamicResource Grid}" d:IsHidden="True">
+            <Grid x:Name="GridListadoClientes" HorizontalAlignment="Left" Height="526" VerticalAlignment="Top" Width="1102">
+
+
+
+                <!--LISTA DE CLIENTES-->
+                <!--LISTA DE CLIENTES-->
+                <Label x:Name="TituloListadoCli" Content="Listado de clientes" HorizontalAlignment="Left" Margin="280,36,0,0" VerticalAlignment="Top" Height="64" Width="317" FontSize="36" Foreground="{DynamicResource Letras}"/>
+                <DataGrid x:Name="DgClientes" HorizontalAlignment="Left" Height="208" Margin="10,284,0,0" VerticalAlignment="Top" Width="881" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="Black" AutoGeneratedColumns="DgClientes_AutoGeneratedColumns" SelectionChanged="DgClientes_SelectionChanged" MouseLeftButtonDown="DgClientes_MouseLeftButtonDown"/>
+                <Label x:Name="LB_BuscarRutLisCli" Content="Rut:" HorizontalAlignment="Left" Margin="155,115,0,0" VerticalAlignment="Top" FontSize="16" Width="42" Foreground="{DynamicResource Letras}"/>
+                <Label x:Name="LB_TipoEmpresaLis" Content="Tipo de empresa:" HorizontalAlignment="Left" Margin="61,153,0,0" VerticalAlignment="Top" FontSize="16" Width="133" Foreground="{DynamicResource Letras}"/>
+                <Label x:Name="LB_ActividadEmpresaLis" Content="Actividad empresa:" HorizontalAlignment="Left" Margin="49,193,0,0" VerticalAlignment="Top" FontSize="16" Width="154" RenderTransformOrigin="0.496,1.11" Foreground="{DynamicResource Letras}"/>
+                <TextBox x:Name="txtRutLis" MaxLength="10" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="31" Margin="197,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" FontSize="16" Controls:TextBoxHelper.Watermark="Ingrese Rut" PreviewTextInput="OnlyNumbersRut" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+                <ComboBox x:Name="cboTipoEmpresaLis" HorizontalAlignment="Left" Margin="197,153,0,342" Width="166" Height="31" Controls:TextBoxHelper.Watermark="Seleccione" FontSize="16" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+                <ComboBox x:Name="cboActividadEmpresaLis" HorizontalAlignment="Left" Margin="197,193,0,302" Width="166" Height="31" Controls:TextBoxHelper.Watermark="Seleccione" FontSize="16" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="{DynamicResource Letras}"/>
+                <Button x:Name="btoFiltrarCli" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="368,153,0,0" VerticalAlignment="Top" Width="108" Height="31" Click="btoFiltrarCli_Button" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}">
+                    <Image Height="21" Width="91" Source="botones/Filtrar.png"/>
+                </Button>
+                <Button x:Name="BT_LimpiarFiltroLis" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="368,193,0,0" VerticalAlignment="Top" Width="108" Height="31" Click="BT_LimpiarFiltroLis_Click" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}">
+                    <Image Height="30" Width="80" Source="botones/LimpiarFiltros.png"/>
+                </Button>
+                <Button x:Name="BT_BuscarCliLis" Style="{DynamicResource MahApps.Metro.Styles.MetroCircleButtonStyle}" HorizontalAlignment="Left" Margin="368,111,0,0" VerticalAlignment="Top" Width="35" Height="35" Background="{DynamicResource lupas}" ToolTip="Buscar en la lista" Click="BtnBuscarClienteLis_Click">
+                    <Image HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="25" Stretch="Fill" Source="Imagenes/Search.png"/>
+                </Button>
+                <Image x:Name="LogoContraste3" HorizontalAlignment="Left" Height="110" Margin="763,0,0,0" VerticalAlignment="Top" Width="110" Source="Imagenes/logoContraste.png" Stretch="Fill"/>
+                <Image x:Name="LogoNornal3" HorizontalAlignment="Left" Height="110" Margin="763,0,0,0" VerticalAlignment="Top" Width="110" Source="Imagenes/logo_transparent_background.png" Stretch="Fill"/>
+
+
+
+            </Grid>
+        </Controls:Flyout>
+
+
+        <!--LISTA CONTRATOS-->
+
+        <Controls:Flyout x:Name="FlyListadoContratos" Position="Bottom" CloseButtonVisibility="Hidden" Theme="Adapt" Height="523" Margin="209,0,0,0.6" TitleVisibility="Hidden" HorizontalAlignment="Left" Background="{DynamicResource Grid}" d:IsHidden="True">
+            <Grid x:Name="GridListadoContratos" HorizontalAlignment="Left" Height="531" VerticalAlignment="Top" Width="873" Margin="0,-5,0,-3" Background="{DynamicResource Grid}">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="481*"/>
+                    <RowDefinition Height="45*"/>
+                </Grid.RowDefinitions>
+
+
+
+                <Image x:Name="LogoContraste4" HorizontalAlignment="Left" Height="110" Margin="744,0,0,0" VerticalAlignment="Top" Width="110" Source="Imagenes/logoContraste.png" Stretch="Fill"/>
+
+
+
+                <Label x:Name="TituloListadoCon" Content="Listado de contratos" HorizontalAlignment="Left" Margin="217,10,0,0" VerticalAlignment="Top" Height="64" Width="449" FontSize="36" Foreground="{DynamicResource Letras}"/>
+                <DataGrid x:Name="dgContratos" HorizontalAlignment="Left" Height="279" Margin="0,247,0,0" VerticalAlignment="Top" Width="863" BorderBrush="{DynamicResource Bordes}" Background="{DynamicResource Grid}" Foreground="Black" AutoGeneratedColumns="DgContratos_AutoGeneratedColumns" SelectionChanged="DgContratos_SelectionChanged" MouseLeftButtonDown="DgContratos_MouseLeftButtonDown" Grid.RowSpan="2"/>
+                <Label x:Name="LB_BuscarRutLisCon" Content="Rut:" HorizontalAlignment="Left" Margin="76,115,0,0" VerticalAlignment="Top" FontSize="16" Width="42" Foreground="{DynamicResource Letras}"/>
+                <Label x:Name="LB_TipoEventoLista" Content="Tipo de evento:" HorizontalAlignment="Left" Margin="76,153,0,0" VerticalAlignment="Top" FontSize="16" Width="124" Foreground="{DynamicResource Letras}"/>
+                <TextBox x:Name="txtRutContrato" MaxLength="20" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="31" Margin="197,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" FontSize="16" Controls:TextBoxHelper.Watermark="Ingrese Rut" PreviewTextInput="OnlyNumbersRut" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}" Foreground="{DynamicResource Letras}"/>
+                <ComboBox x:Name="cboTipoEventoLista" HorizontalAlignment="Left" Margin="197,153,0,296.8" Width="166" Height="31" Controls:TextBoxHelper.Watermark="Seleccione" FontSize="16" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}" Foreground="{DynamicResource Letras}"/>
+                <Button Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="390,81,0,0" VerticalAlignment="Top" Width="89" Height="31" Click="Button_Click_1" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}" Foreground="{DynamicResource Letras}">
+                    <Image Height="21" Width="76" Source="botones/Filtrar.png"/>
+                </Button>
+                <Button x:Name="BT_LimpiarFiltroLisCon" Style="{StaticResource AccentedSquareButtonStyle}" HorizontalAlignment="Left" Margin="390,119,0,0" VerticalAlignment="Top" Width="89" Height="31" Click="BT_LimpiarFiltroLisCon_Click" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}" Foreground="{DynamicResource Letras}">
+                    <Image Height="21" Width="68" Source="botones/LimpiarFiltros.png"/>
+                </Button>
+                <Image x:Name="LogoNormal4" HorizontalAlignment="Left" Height="110" Margin="744,0,0,0" VerticalAlignment="Top" Width="110" Source="Imagenes/logo_transparent_background.png" Stretch="Fill"/>
+                <Button  Style="{StaticResource AccentedSquareButtonStyle}" x:Name="btnSalirLisCon" HorizontalAlignment="Left" Margin="390,155,0,0" VerticalAlignment="Top" Width="89" Click="BtnSalirLisCon_Click" Height="30" Background="{DynamicResource Botones}" BorderBrush="{DynamicResource Bordes Botones}" Foreground="{DynamicResource Letras}">
+                    <Image Height="20" Width="71" Stretch="Fill" Source="botones/Salir.png"/>
+                </Button>
+                <TextBox x:Name="txtNumContratoLis" MaxLength="20" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" Height="31" Margin="197,79,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" FontSize="16" Controls:TextBoxHelper.Watermark="Ingrese Numero" PreviewTextInput="OnlyNumbersNumCon" Background="{DynamicResource Grid}" BorderBrush="{DynamicResource Bordes}" Foreground="{DynamicResource Letras}"/>
+                <Label x:Name="LB_BuscarRutLisCon_Copy" Content="Numero :" HorizontalAlignment="Left" Margin="76,81,0,0" VerticalAlignment="Top" FontSize="16" Width="116" Foreground="{DynamicResource Letras}"/>
+
+
+
+            </Grid>
+        </Controls:Flyout>
+        <Grid HorizontalAlignment="Left" Height="105" Margin="-4,574,0,-104.6" VerticalAlignment="Top" Width="208" Background="{DynamicResource Grid}">
+            <Controls:ToggleSwitch Margin="36,0,53,58" Checked="ToggleSwitch_Checked" Unchecked="ToggleSwitch_Unchecked"/>
+        </Grid>
+        <Button x:Name="btnColores" HorizontalAlignment="Left" Margin="0,511,0,0" VerticalAlignment="Top" Width="207" RenderTransformOrigin="0.22,0.142" Click="BtnColores_Click" Height="63" BorderBrush="Black" Background="{DynamicResource Botones}">
+            <Image Height="61" Width="111" Source="Imagenes/Display-Contrast.png"/>
+        </Button>
+        <Grid x:Name="GridColores" HorizontalAlignment="Left" Height="137" Margin="203,437,0,0" VerticalAlignment="Top" Width="100">
+            <Controls:Tile x:Name="BtnBlanco" Height="Auto" Margin="160,97,-130,14" Width="Auto" Click="BtnBlanco_Click" Background="#CC8D979C">
+
+            </Controls:Tile>
+            <Controls:Tile x:Name="btnVerde" Height="Auto" Margin="85,97,-55,13" Width="Auto" Background="#FF39FF14" Click="BtnVerde_Click"/>
+            <Controls:Tile x:Name="btnNormal" Height="Auto" Margin="10,96,20,13" Width="Auto" Click="BtnNormal_Click" RenderTransformOrigin="0.504,0.946"/>
+        </Grid>
+
+
+
+
+
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,396 @@
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\source\repos\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\velas\Desktop\General\Duoc UC\Duoc Primer Semestre 2019\Desarrollo Software Escritorio y Gestión\Proyecto Unidad 2 OnBreak E6\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\velas\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojResolveAssemblyReference.cache
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+E:\Ogaz\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Desktop\OnBreak 99\OnBreak.Diseño\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb

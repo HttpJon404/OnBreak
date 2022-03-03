@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.NegocioTest\\OnBreak.NegocioTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Datos\\OnBreak.Datos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Datos\\OnBreak.Datos.csproj",
+        "projectName": "OnBreak.Datos",
+        "projectPath": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Datos\\OnBreak.Datos.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.NegocioTest\\OnBreak.NegocioTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.NegocioTest\\OnBreak.NegocioTest.csproj",
+        "projectName": "OnBreak.NegocioTest",
+        "projectPath": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.NegocioTest\\OnBreak.NegocioTest.csproj",
+        "packagesPath": "C:\\Users\\Jona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.NegocioTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Negocio\\OnBreak.Negocio.csproj": {
+                "projectPath": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Negocio\\OnBreak.Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Negocio\\OnBreak.Negocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Negocio\\OnBreak.Negocio.csproj",
+        "projectName": "OnBreak.Negocio",
+        "projectPath": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Negocio\\OnBreak.Negocio.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Datos\\OnBreak.Datos.csproj": {
+                "projectPath": "C:\\Users\\Jona\\Downloads\\Solucion OnBreak\\OnBreak.Datos\\OnBreak.Datos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

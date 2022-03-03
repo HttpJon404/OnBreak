@@ -1,0 +1,1256 @@
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\cetecom\Downloads\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\Ignacio\Desktop\onbreak3\Solucion OnBrean U3V5\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBrean U3v06\Solucion OnBrean U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak - Avance entrega 1\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\Solucion Onbreak  U3V7\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion Onbreak  U3V7.5\Solucion Onbreak  U3V7.5\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.Cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.Cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 V8.3\Solucion OnBreak U3 V8.2\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\Solucion OnBreak U3 V9\Solucion OnBreak U3 V9\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreakOficial\Solucion OnBreak U3 respaldo\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\patrones\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\AVANCE\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\ABP3\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Temas\Normal.baml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\ExamenFinal\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Temas\AltoContraste.baml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Temas\AltoContraste.baml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Temas\Normal.baml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Temas\Verde.baml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\usuario\Desktop\OnBreak(ALTO CONTRASTE LISTO)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe.config
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreakWPF.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ControlzEx.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.pdb
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\Icons.baml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Temas\AltoContraste.baml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Temas\Normal.baml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\Temas\Verde.baml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.cache
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF_MarkupCompile.lref
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.g.resources
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.Properties.Resources.resources
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.csproj.CopyComplete
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.exe
+C:\Users\lenovo\Desktop\OnBreak(ALTO CONTRASTE2.0)\OnBreak\Solucion OnBreak U3\OnBreakWPF\obj\Debug\OnBreakWPF.pdb
